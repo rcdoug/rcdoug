@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently working as an intern for the University of Alabama EcoCAR
+I'm currently working as the Engineering Manager for the University of Alabama EcoCAR team.
 
 <!--
 **rcdoug/rcdoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
